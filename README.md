@@ -1,2 +1,0 @@
-# RentServerWebApp
-My project 

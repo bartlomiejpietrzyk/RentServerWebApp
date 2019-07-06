@@ -1,3 +1,91 @@
+# Created by .ignore support plugin (hsz.mobi)
+### JetBrains template
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and Webstorm
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+
+# User-specific stuff:
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/dictionaries
+
+# Sensitive or high-churn files:
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.xml
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/*
+
+# Gradle:
+.idea/**/gradle.xml
+.idea/**/libraries
+
+# Mongo Explorer plugin:
+.idea/**/mongoSettings.xml
+
+## File-based project format:
+*.iws
+
+## Plugin-specific files:
+
+# IntelliJ
+/out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+# Crashlytics plugin (for Android Studio and IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+### Maven template
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Avoid ignoring Maven wrapper jar file (.jar files are usually ignored)
+!/.mvn/wrapper/maven-wrapper.jar
+### Gradle template
+.gradle
+/build/
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
+# Cache of project
+.gradletasknamecache
+
+# # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
+# gradle/wrapper/gradle-wrapper.properties
+### JDeveloper template
+# default application storage directory used by the IDE Performance Cache feature
+.data/
+
+# used for ADF styles caching
+temp/
+
+# default output directories
+classes/
+deploy/
+javadoc/
+
+# lock file, a part of Oracle Credential Store Framework
+cwallet.sso.lck### Java template
 # Compiled class file
 *.class
 
@@ -13,7 +101,6 @@
 # Package Files #
 *.jar
 *.war
-*.nar
 *.ear
 *.zip
 *.tar.gz
@@ -21,3 +108,179 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+### Eclipse template
+
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+
+# Eclipse Core
+.project
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# PyDev specific (Python IDE for Eclipse)
+*.pydevproject
+
+# CDT-specific (C/C++ Development Tooling)
+.cproject
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+# Java annotation processor (APT)
+.factorypath
+
+# PDT-specific (PHP Development Tools)
+.buildpath
+
+# sbteclipse plugin
+.target
+
+# Tern plugin
+.tern-project
+
+# TeXlipse plugin
+.texlipse
+
+# STS (Spring Tool Suite)
+.springBeans
+
+# Code Recommenders
+.recommenders/
+
+# Scala IDE specific (Scala & Java development for Eclipse)
+.cache-main
+.scala_dependencies
+.worksheet
+
+*.iml
+
+    ../JAVA_Warsztat_02/
+	../ScrumLab/WRO_SJE_S_13_ScrumLab/.idea/misc.xml
+	../ScrumLab/WRO_SJE_S_13_ScrumLab/.idea/modules.xml
+	../ScrumLab/WRO_SJE_S_13_ScrumLab/.idea/vcs.xml
+	../ScrumLab/WRO_SJE_S_13_ScrumLab/.idea/workspace.xml
+	../WRO_JEE_S_09_Advanced/
+	../WRO_JEE_S_09_Exam_2/
+	../WRO_JEE_S_09_Exam_3/
+	../WRO_JEE_S_09_Exam_4/
+	../WRO_JEE_S_09_Exam_5/
+	../WRO_JEE_S_09_JavaScript/
+	../WRO_JEE_S_09_MySQL/
+	../WRO_JEE_S_09_OOP/
+	../WRO_JEE_S_09_Podstawy/
+	../WRO_JEE_S_09_Prework_HTML/
+	../WRO_JEE_S_09_Prework_Java/
+	../WRO_JEE_S_09_Rest_Server/
+	../WRO_JEE_S_09_Servlety/
+	../WRO_JEE_S_09_Spring/
+	../WRO_SJE_S_13_ScrumLab/
+	../jBCrypt-0.4/
+	../java.sql.*
+	../jeeexam3/
+	../jeeexamspring/
+	../jeeschool/.idea/misc.xml
+	../jeeschool/.idea/workspace.xml
+	../jeeschool/out/
+	../jeeservlet/.idea/
+	../jeeservlet/jeeservlet.iml
+	../jeeservlet/pom.xml
+	../jeespringxml/
+	../mashup/
+	../maven/.idea/
+	../maven/maven.iml
+	../maven/pom.xml
+	../newdir/
+	.idea/
+	pom.xml
+	rentServer.iml
+	src/main/java/com/github/bartlomiejpietrzyk/component/UserDao.java
+	src/main/java/com/github/bartlomiejpietrzyk/interfaces/DaoInterface.java
+	src/main/resources/
+	../servletjee/.idea/
+	../servletjee/oop.txt
+	../servletjee/pom.xml
+	../servletjee/servletjee.iml
+	../servletjee/src/main/java/ServletUtils.java
+	../servletjee/src/main/java/getFromSessionOrCreate.java
+	../servletjee/src/main/java/jbcd/
+	../servletjee/src/main/java/mvc/Book.java
+	../servletjee/src/main/java/mvc/Mvc13.java
+	../servletjee/src/main/java/mvc/Mvc14.java
+	../servletjee/src/main/java/pl/coderslab/homework/Servlet351.java
+	../servletjee/src/main/java/pl/coderslab/homework/Servlet352.java
+	../servletjee/src/main/java/pl/coderslab/servlets/Servlet13.java
+	../servletjee/src/main/java/pl/coderslab/servlets/post/Post1.java
+	../servletjee/src/main/java/pl/coderslab/servlets/session/Session01Set.java
+	../servletjee/src/main/java/test.java
+	../servletjee/src/main/resources/
+	../servletjee/src/main/webapp/META-INF/
+	../servletjee/src/main/webapp/homework03/servlet31.html
+	../servletjee/src/main/webapp/homework03/servlet350.html
+	../servletjee/src/main/webapp/jdbc/
+	../servletjee/src/main/webapp/jsp/footer.jsp
+	../servletjee/src/main/webapp/jsp/header.jsp
+	../servletjee/src/main/webapp/jsp/index.jsp
+	../servletjee/src/main/webapp/jsp/jsp3.jsp
+	../servletjee/src/main/webapp/mvc/book-add.jsp
+	../servletjee/src/main/webapp/mvc/edit-book.jsp
+	../servletjee/src/main/webapp/mvc/form.jsp
+	../servletjee/src/main/webapp/mvc/index41.jsp
+	../servletjee/src/main/webapp/mvc/jsp2.jsp
+	../servletjee/src/main/webapp/mvc/result.jsp
+	../servletjee/src/main/webapp/post/index.html
+	../spring_homework_01/
+	../spring_homework_012/
+	../springmvc/.idea/
+	../springmvc/pom.xml
+	../springmvc/springmvc.iml
+	../springmvc/src/main/a_Dzien_2/
+	../springmvc/src/main/java/pl/coderslab/AppConfig.java
+	../springmvc/src/main/java/pl/coderslab/AppInitializer.java
+	../springmvc/src/main/java/pl/coderslab/controller/Cart.java
+	../springmvc/src/main/java/pl/coderslab/controller/CartController.java
+	../springmvc/src/main/java/pl/coderslab/controller/CartItem.java
+	../springmvc/src/main/java/pl/coderslab/controller/FileService.java
+	../springmvc/src/main/java/pl/coderslab/controller/FreeTimeController.java
+	../springmvc/src/main/java/pl/coderslab/controller/HelloController.java
+	../springmvc/src/main/java/pl/coderslab/controller/HomeController.java
+	../springmvc/src/main/java/pl/coderslab/controller/MultiplyController.java
+	../springmvc/src/main/java/pl/coderslab/controller/ProductDao.java
+	../springmvc/src/main/java/pl/coderslab/controller/SessionController.java
+	../springmvc/src/main/java/pl/coderslab/controller/StyleController.java
+	../springmvc/src/main/webapp/
+	../test/
+	../untitled/
+	../workshop03/.idea/libraries/
+	../workshop03/.idea/misc.xml
+	../workshop03/.idea/modules.xml
+	../workshop03/.idea/workspace.xml
+	../workshop03/src/main/main.iml
+	../workshop03/workshop03.iml
+	../workshop_01/
+	../workshop_02/
+	../workshop_03/
+	../workshop_04/
+	../workshop_05/.gitignore
+	../workshop_05/.idea/
+	../workshop_05/README.md
+	../workshop_05/pom.xml
+	../workshop_05/src/main/java/pl/coderslab/AppInitializer.java
+	../workshop_05/src/main/java/pl/coderslab/controller/
+	../workshop_05/src/main/java/pl/coderslab/model/
+	../workshop_05/src/main/java/pl/coderslab/service/
+	../workshop_05/src/main/webapp/
+	../workshop_05/workshop_05.iml
